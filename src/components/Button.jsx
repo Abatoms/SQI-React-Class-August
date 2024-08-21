@@ -24,17 +24,17 @@ const styles = {
 
 export default Button;
 
-const myDetails = {
-  name: "John",
-  age: 12,
-  complexion: "dark",
-};
+// const myDetails = {
+//   name: "John",
+//   age: 12,
+//   complexion: "dark",
+// };
 
-const myDetailedDetails = {
-  height: "6ft",
-  ...myDetails,
-  weight: "70kg",
-};
+// const myDetailedDetails = {
+//   height: "6ft",
+//   ...myDetails,
+//   weight: "70kg",
+// };
 
-console.log(myDetails);
-console.log(myDetailedDetails);
+// console.log(myDetails);
+// console.log(myDetailedDetails);
